@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 Hey 👋, It's Fatai King. I am a Data Scientist who is proficient in Python and loves to create data visualizations 📊. I am easy to work with. I love sports ⚽🏀, I'm super competitive 🏆, especially when it comes to playing sports or board games.
 
