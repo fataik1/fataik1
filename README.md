@@ -7,7 +7,7 @@ Hey 👋, It's Fatai King. I am a Data Scientist who is skilled in Python, R, Ma
 
 💬 Ask me about anything about sports
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatai-king-8b2b5a9b/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatai-king-8b2b5a9b/), fataiking111@gmail.com
 
 ⚡ Fun Fact: I have a degree from Rutgers University & 4 years soccer letter, I travelled the world playing soccer. 
 
